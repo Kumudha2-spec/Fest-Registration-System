@@ -1,2 +1,2 @@
 # Fest-Registration-System
-It is a full stack is a Fest Registration System designed to facilitate the registration process for participants, volunteers, and organizers of an event or program.
+Built a , role-based event registration system where students can easily sign up for events and view their registrations after logging in. I focused on creating a clean, user-friendly front-end and connected it to a back-end powered by SQL to handle storing and retrieving participant data. The goal was to make event management smooth, secure, and straightforward for both users and organizers.
